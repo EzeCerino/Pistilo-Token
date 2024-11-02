@@ -1,0 +1,56 @@
+{
+    "name": "Saffron Deposit Certificate NFT",
+    "description": "This NFT represents the ownership of 10,000 grams of saffron deposited at the Saffron Bank of Switzerland.",
+    "image": "ipfs://QmTQMNjQ6feNiyS9ZFuJteDPPaVtXKPau6rD9FG89TR7ni", 
+    "attributes": [
+      {
+        "trait_type": "Bank Name",
+        "value": "Saffron Bank of Switzerland"
+      },
+      {
+        "trait_type": "Certificate Number",
+        "value": "123456789"
+      },
+      {
+        "trait_type": "Date of Issue",
+        "value": "2024-10-19"
+      },
+      {
+        "trait_type": "Expiry Date",
+        "value": "2029-10-19"
+      },
+      {
+        "trait_type": "Depositor's Name",
+        "value": "John Doe"
+      },
+      {
+        "trait_type": "Depositor's Address",
+        "value": "1234 Elm Street, Zurich, Switzerland"
+      },
+      {
+        "trait_type": "Commodity",
+        "value": "Saffron (Crocus Sativus)"
+      },
+      {
+        "trait_type": "Quantity",
+        "value": "10,000 grams (10 kg)"
+      },
+      {
+        "trait_type": "Grade/Quality",
+        "value": "Premium Grade"
+      },
+      {
+        "trait_type": "Batch Number",
+        "value": "B12345"
+      },
+      {
+        "trait_type": "Storage Location",
+        "value": "Vault A, Saffron Bank of Switzerland"
+      },
+      {
+        "trait_type": "Authorized Signature",
+        "value": "Jane Smith, Bank Representative"
+      }
+    ]
+  }
+  
